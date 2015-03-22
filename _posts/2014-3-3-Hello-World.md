@@ -1,10 +1,15 @@
 ---
 layout: post
-title: You're up and running!
+title: In my endeavours to create a video game, I have accidentally created a Ferrero Rocher generator.
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I am in the process of creating a planet generator for Cassmo. It works by creating an icosphere and then deforming it to form mountains and valleys. At the moment, the height of each vertex is totally random and unrelated to the vertex next to it:
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![generated planet](http://i.imgur.com/9IJI6XO.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+[Un?]fortunately, this makes the planet look like an ice cream drumstick, or perhaps a Ferrero Rocher:
+
+![Ferrero Rocher planet](http://i.imgur.com/IAkqyrT.png "Ferrero Rocher planet")
+![coconut Ferrero Rocher planet](http://i.imgur.com/GJ1FLX8.png "Coconut Ferrero Rocher planet")
+
+I'm considering keeping it.
