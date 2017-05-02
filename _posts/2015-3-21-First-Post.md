@@ -10,4 +10,4 @@ I am in the process of creating a planet generator for Cassmo. It works by creat
 [Un?]fortunately, this makes the planet look like an ice cream drumstick, or perhaps a Ferrero Rocher:
 
 ![Ferrero Rocher planet](https://i.imgur.com/IAkqyrT.png "Ferrero Rocher planet")
-![coconut Ferrero Rocher planet](https://i.imgur.com/Ij1ICUh.png "Coconut Ferrero Rocher planet"
+![coconut Ferrero Rocher planet](https://i.imgur.com/Ij1ICUh.png "Coconut Ferrero Rocher planet")
